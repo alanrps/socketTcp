@@ -1,2 +1,2 @@
 # socketTcp
-Atividades utilizando sockets tcp em python para disciplina de Sistemas Distribuídos
+Atividades utilizando sockets tcp em python, disciplina de Sistemas Distribuídos
